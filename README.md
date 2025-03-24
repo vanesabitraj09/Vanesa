@@ -4,7 +4,6 @@ After Exercise
 After 30 seconds of rest
 This test uses these results and the persons age to give a fitness score. This helps people understand their heart health in an easy way
 Name             | Content
-__________________________________________________________________
 main.py          | Main file
 instructions.py  | File with text instructions
 ruffier.py       | Calculating Ruffier index and recommendations
