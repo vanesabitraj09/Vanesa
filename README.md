@@ -2,7 +2,7 @@ The Rufier test helps people check how well their heart and lungs work. It guide
 Before exercise 
 After Exercise 
 After 30 seconds of rest
-This test uses these results and the persons age to give a fitness score. This helps people understand their heart health in an easy way
+This test uses these results and the persons age to give a fitness score. This helps people understand their hearts health in an easy way
 | Name             | Content                                  |
 |-----------------|------------------------------------------|
 | main.py         | Main file                                |
