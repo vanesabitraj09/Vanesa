@@ -11,4 +11,4 @@ scrollLabel.py    Class for creating text
 colouredLayout.py Class for creating colorful layout 
 seconds.py        Timer
 sits.py           Squat timer
-runner.py         "Runner" animation
+runner.py         "Runner" animation 
